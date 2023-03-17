@@ -40,6 +40,8 @@ public class App extends Application {
     Navigation.navigate(Screen.HOME);
   }
 
+  // This is an amazing comment TODO: Delete
+
   @Override
   public void stop() {
     log.info("Shutting Down");
